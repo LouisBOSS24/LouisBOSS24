@@ -27,7 +27,7 @@
 
 <p align="center">
   📞 07.85.95.52.02 &nbsp; | &nbsp; ✉️ louis.bossoutrot@coda-student.school<br>
-  🔗 <a href="https://www.linkedin.com/in/louis-bossoutrot/" target="_blank">Mon LinkedIn</a> &nbsp; | &nbsp; 🔗 
+  🔗 <a href="https://www.linkedin.com/in/louis-bossoutrot/" target="_blank">Mon LinkedIn</a> &nbsp;
 </p>
 
 ---
