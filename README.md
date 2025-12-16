@@ -32,7 +32,7 @@
 
 ---
 
-## 📝 Citation inspirante
+## 📝 Citation
 
 <p align="center">
   <em>« Être l’homme le plus riche du cimetière ne m’intéresse pas. Aller me coucher en me disant que j’ai fait quelque chose de formidable, <strong>ça</strong>, c’est important. »</em><br>
