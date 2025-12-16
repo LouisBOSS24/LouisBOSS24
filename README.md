@@ -23,3 +23,7 @@
 <p align="center">07.85.95.52.02</p>
 <p align="center">louis.bossoutrot@coda-student.school</p>
 <a href="https://www.linkedin.com/in/louis-bossoutrot/" align="center">🔗 Mon Linkedin</a>
+
+  ## 📝 Citation
+
+<p><strong>Steve Jobs :</strong> "Être l’homme le plus riche du cimetière ne m’intéresse pas. Aller me coucher en me disant que j’ai fait quelque chose de formidable, <strong>ça</strong>, c’est important."</p>
