@@ -10,7 +10,7 @@
 ## 💻 Langages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,c,html,css,git,github,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=php,c,html,css,js,git,github,docker&perline=7" />
 </p>
 
 ---
