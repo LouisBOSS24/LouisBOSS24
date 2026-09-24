@@ -28,7 +28,9 @@
 ## 📫 Me contacter
 
 <p align="center">
-  📞 07.85.95.52.02 &nbsp; | &nbsp; ✉️ louis.bossoutrot@coda-student.school<br>
+  📞 07.85.95.52.02 &nbsp; <br> 
+  &nbsp; Adresse école ✉️🏫 :  louis.bossoutrot@coda-student.school<br>
+  &nbsp; Adresse entreprise ✉️🏢 :  lbo@irokoo.fr<br>
   🔗 <a href="https://www.linkedin.com/in/louis-bossoutrot/" target="_blank">Mon LinkedIn</a> &nbsp;
 </p>
 
