@@ -12,7 +12,7 @@
 ## 💻 Langages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,c,html,css,js,git,github,docker,java,nodejs,react,vite,supabase,figma&perline=14" />
+  <img src="https://skillicons.dev/icons?i=php,c,python,html,css,js,java,nodejs,react,vite,git,github,docker,vscode,supabase,figma&perline=8" />
 </p>
 
 ---
