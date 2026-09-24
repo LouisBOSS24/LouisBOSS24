@@ -2,7 +2,9 @@
 
 <p align="center">
   J'ai <strong>20 ans</strong> et je suis passionné par la <strong>musique</strong> 🎵 et le <strong>cinéma</strong> 🎬.<br>
-  Je suis actuellement en études de développement <strong>Fullstack</strong> à <strong>Coda_ Orléans</strong>. En alternance dans la société <strong>IROKOO</strong>, <strong>2ème</strong> intégrateur <strong>Odoo</strong> Français.
+  Je suis actuellement en études de développement <strong>Fullstack</strong> à <strong>Coda_ Orléans</strong>.
+<br>
+  En alternance dans la société <strong>IROKOO</strong>, <strong>2ème</strong> intégrateur <strong>Odoo</strong> Français.
 </p>
 
 ---
