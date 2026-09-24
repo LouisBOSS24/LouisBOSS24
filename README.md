@@ -17,14 +17,6 @@
 
 ---
 
-## 📊 Mes Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisBOSS24&theme=dark&hide_border=true&layout=compact" /><br>
-</p>
-
----
-
 ## 📫 Me contacter
 
 <p align="center">
